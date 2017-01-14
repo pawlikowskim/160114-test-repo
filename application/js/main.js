@@ -1,7 +1,17 @@
 $(function () {
     var patientsList = [
         { firstName: "Jan", lastName: "Kowalski" },
+        { firstName: "Jan", lastName: "Kowalski" },
         { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Adam", lastName: "Nowak" },
+        { firstName: "Andrzej", lastName: "Kielcz" }
+        { firstName: "Andrzej", lastName: "Kielcz" }
+        { firstName: "Andrzej", lastName: "Kielcz" }
         { firstName: "Andrzej", lastName: "Kielcz" }
     ];
 
